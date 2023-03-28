@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  I'm a visual designer based in Kitchener, Ontario. I'm a generalist and I wear many hats (luckily I'm a hat person).
+content: >
+  ### I design and build things from a user-centred approach.
+
+  I love anything local and sustainable, and connecting with small businesses that have similar ethos.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

@@ -1,0 +1,25 @@
+---
+enable: true
+topTitle: Creative Services
+title: >
+  ## Hat Collection
+
+  Like I said, I'm wearer of many hats. Here are some of my best chapeaux.
+service:
+
+
+  - content: >
+      #### Graphic Design 
+
+      Working on an ad campaign? Looking to rebrand and want a new logo and brand guidelines book? Do you need marketing materials for an upcoming event?
+    image: images/service/creative.svg
+  - content: >
+      #### Front End Development 
+
+      Whether your site is pure HTML/CSS/JS, on a CMS like Wordpress or Wix, or uses an SSG on a Github Page, I can add content or updates, revamp, or start fresh!
+    image: images/service/web.svg
+  - content: >
+      #### UI/UX Design 
+
+      I focus on the user, consider their story, emotions, and other insights gathered about them, to create design that is usable, equitable, enjoyable, and useful.
+    image: images/service/ui-ux.svg

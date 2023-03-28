@@ -1,0 +1,29 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  I have a wide array of skills at varied levels. I am constantly taking courses and adding new skills to my roster, or improving on existing ones. 
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: InDesign
+    percent: 100
+  - title: Logo Design
+    percent: 90
+  - title: Illustrator
+    percent: 100
+  - title: Photoshop
+    percent: 100
+  - title: Photography
+    percent: 85
+  - title: Digital Illustration
+    percent: 75
+  - title: HTML
+    percent: 65
+  - title: CSS
+    percent: 60
+  - title: Javascript
+    percent: 50

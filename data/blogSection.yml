@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Posts
+
+  Here's a spot for all of my big news and ideas.
+
+buttonTarget: blog

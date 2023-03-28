@@ -1,0 +1,106 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertise
+
+  In this day and age there are a lot of online and DIY options out there for design. The problem with that is that you or your business might be getting a cookie cutter template instead of getting a custom creation tailored to your vision and brand. 
+  
+  
+  Let's connect, and support local! If you are in the Kitchener — Waterloo area I would love to meet with you to discuss your project!
+  
+  
+
+
+  
+tab1Name: Education
+tab2Name: Experience
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Foundations of User Experience (UX) Design  
+      
+      ##### Coursera
+
+      - User Experience (UX)  
+      
+      - UX Research  
+      
+      - Wireframe  
+      
+      - Prototype  
+      
+      - User Experience Design (UXD)
+    time: 2021-2022
+  - content: >
+      #### Graphic Design & Advertising  
+      
+      ##### Humber College
+      
+      - Digital Design
+      
+      - Marketing
+      
+      - Typography
+      
+      - Editorial Design
+      
+      - Information Design
+      
+      - Corporate Design
+    time: 2009-2012
+
+
+experience:
+  - content: >
+      #### Freelance 
+
+      Collaboration with clients on design projects from ideation through to production. This includes creating the project brief, discussing project outcomes/goals at every stage, providing mock-ups for review/selection by the client, and finally producing well polished deliverables that are ready make connections.
+      
+      
+      **Graphic Design**
+      
+      - Logos and branding materials  
+      
+      - Program directories   
+      
+      - Marketing materials and templates  
+      
+      - Websites
+      
+      - Custom illustration
+      
+      
+      **Front End Development**
+      
+      - HTML, CSS, JS  
+      
+      - Mobile first approach  
+      
+      - Github / version control  
+      
+      - Problem-solving & troubleshooting
+    time: 2015-Present
+  - content: >
+      #### M&T Printing Company
+
+      Graphic design and file output for the Frederick Street location. Working in a fast-paced team environment and consistently meeting deadlines while going above and beyond the expectations of our customers.
+      
+      - Catalogues
+      
+      - Posters
+      
+      - Business cards
+      
+      - Logos
+      
+      - Annual reports
+      
+      - Banner stands
+      
+      - Car wraps
+      
+      - Various decals
+    time: 2015-2020
